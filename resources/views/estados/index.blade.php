@@ -1,3 +1,5 @@
+
+
 @extends('layouts.master')
 @section('content')
 
@@ -9,6 +11,24 @@
             <datatable-component>
 
             </datatable-component>
+        </div>
+
+    </div>
+
+</div>
+
+<div>
+
+<br>
+   <b></b> <h3> Ejemplo
+    
+   </h3> </b>
+        <div class="col-md-8">
+    
+            <am-charts-component>
+
+
+</am-charts-component>
         </div>
 
     </div>
